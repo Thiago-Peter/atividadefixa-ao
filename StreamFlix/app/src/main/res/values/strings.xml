@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StreamFlix</string>
+    <string name="featured">Em destaque</string>
+    <string name="popular">Populares</string>
+    <string name="banner_description">Banner principal do StreamFlix</string>
+    <string name="movie_description">Pôster de filme</string>
+</resources>
