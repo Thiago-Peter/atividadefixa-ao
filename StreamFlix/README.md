@@ -83,3 +83,11 @@ O link remoto precisa ser associado a um repositório com autorização de acess
 - [x] `contentDescription`
 - [x] Activity e Adapter em Java
 - [x] Organização por recursos reutilizáveis
+
+## Resultados observados
+
+A interface foi organizada conforme o roteiro proposto, utilizando Java, XML, Material Design 3 e RecyclerView.
+
+O projeto contém uma tela inicial com banner, tema escuro, título de filmes populares e lista horizontal de cards.
+
+Também foram configurados os arquivos colors.xml, strings.xml, themes.xml, dimens.xml, layouts XML e recursos vetoriais na pasta drawable.
